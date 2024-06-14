@@ -1,2 +1,3 @@
-# ros2_ws
-ros2 practical workspace
+# hello ros2
+
+practical ros2 programming
