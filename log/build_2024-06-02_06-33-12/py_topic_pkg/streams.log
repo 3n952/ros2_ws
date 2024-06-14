@@ -1,0 +1,31 @@
+[0.379s] Invoking command in '/home/san/Desktop/workspace/ros2_ws/build/py_topic_pkg': PYTHONPATH=/home/san/Desktop/workspace/ros2_ws/build/py_topic_pkg/prefix_override:/home/san/Desktop/workspace/ros2_ws/install/py_topic_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/san/Desktop/workspace/ros2_ws/build/py_topic_pkg/build --no-deps symlink_data
+[0.493s] running develop
+[0.550s] running egg_info
+[0.550s] creating py_topic_pkg.egg-info
+[0.550s] writing py_topic_pkg.egg-info/PKG-INFO
+[0.550s] writing dependency_links to py_topic_pkg.egg-info/dependency_links.txt
+[0.550s] writing entry points to py_topic_pkg.egg-info/entry_points.txt
+[0.550s] writing requirements to py_topic_pkg.egg-info/requires.txt
+[0.550s] writing top-level names to py_topic_pkg.egg-info/top_level.txt
+[0.554s] writing manifest file 'py_topic_pkg.egg-info/SOURCES.txt'
+[0.569s] reading manifest file 'py_topic_pkg.egg-info/SOURCES.txt'
+[0.569s] writing manifest file 'py_topic_pkg.egg-info/SOURCES.txt'
+[0.585s] running build_ext
+[0.586s] Creating /home/san/Desktop/workspace/ros2_ws/install/py_topic_pkg/lib/python3.8/site-packages/site.py
+[0.587s] Creating /home/san/Desktop/workspace/ros2_ws/install/py_topic_pkg/lib/python3.8/site-packages/py-topic-pkg.egg-link (link to .)
+[0.587s] Installing cmd_vel_pub_node script to /home/san/Desktop/workspace/ros2_ws/install/py_topic_pkg/lib/py_topic_pkg
+[0.588s] Installing endless_cmd_vel_pub_node script to /home/san/Desktop/workspace/ros2_ws/install/py_topic_pkg/lib/py_topic_pkg
+[0.588s] Installing laser_raw_node script to /home/san/Desktop/workspace/ros2_ws/install/py_topic_pkg/lib/py_topic_pkg
+[0.588s] Installing laser_sub_node script to /home/san/Desktop/workspace/ros2_ws/install/py_topic_pkg/lib/py_topic_pkg
+[0.588s] Installing parking_node script to /home/san/Desktop/workspace/ros2_ws/install/py_topic_pkg/lib/py_topic_pkg
+[0.588s] 
+[0.588s] Installed /home/san/Desktop/workspace/ros2_ws/build/py_topic_pkg
+[0.588s] running symlink_data
+[0.588s] creating /home/san/Desktop/workspace/ros2_ws/install/py_topic_pkg/share/ament_index
+[0.588s] creating /home/san/Desktop/workspace/ros2_ws/install/py_topic_pkg/share/ament_index/resource_index
+[0.588s] creating /home/san/Desktop/workspace/ros2_ws/install/py_topic_pkg/share/ament_index/resource_index/packages
+[0.588s] symbolically linking /home/san/Desktop/workspace/ros2_ws/build/py_topic_pkg/resource/py_topic_pkg -> /home/san/Desktop/workspace/ros2_ws/install/py_topic_pkg/share/ament_index/resource_index/packages
+[0.588s] symbolically linking /home/san/Desktop/workspace/ros2_ws/build/py_topic_pkg/package.xml -> /home/san/Desktop/workspace/ros2_ws/install/py_topic_pkg/share/py_topic_pkg
+[0.588s] creating /home/san/Desktop/workspace/ros2_ws/install/py_topic_pkg/share/py_topic_pkg/launch
+[0.588s] symbolically linking /home/san/Desktop/workspace/ros2_ws/build/py_topic_pkg/launch/cmd_vel_pub.launch.py -> /home/san/Desktop/workspace/ros2_ws/install/py_topic_pkg/share/py_topic_pkg/launch
+[0.602s] Invoked command in '/home/san/Desktop/workspace/ros2_ws/build/py_topic_pkg' returned '0': PYTHONPATH=/home/san/Desktop/workspace/ros2_ws/build/py_topic_pkg/prefix_override:/home/san/Desktop/workspace/ros2_ws/install/py_topic_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/san/Desktop/workspace/ros2_ws/build/py_topic_pkg/build --no-deps symlink_data
